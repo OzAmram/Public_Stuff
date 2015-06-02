@@ -7,4 +7,4 @@ ROOT library.
 
 The Spectator Tagging has interesting parts of ROOT code that are commented
 pretty well. I removed all the theory fortran code that generated the events
-but I kept some outputs, so it might still run or it might not.
+but I kept some output files, so it might still run or it might not.
